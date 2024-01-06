@@ -19,8 +19,8 @@ body {
     }
     img {
       margin-top: 40px;
-      box-shadow: inset 000px 0px 12px #9932CC, -1px 0px #9932CC, 0px 1px #9932CC, 1px 0px #9932CC, 0px -1px #FA8072;
-      border-radius: 50px;
+      height: 260px;
+      border-radius: 5px;
     }
     button {
       border-radius: 5px;
